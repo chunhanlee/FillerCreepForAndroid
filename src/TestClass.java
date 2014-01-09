@@ -1,5 +1,9 @@
 
-// some comment
+/*
+ * some comment
+ 
+ */
+
 public class TestClass
 {
 
